@@ -9,3 +9,5 @@
 **Revert a local uncommited file**
 - `git reset`
 - `git checkout [some-dir|file.txt]`
+
+**Using OH_MY_ZSH**
